@@ -1,0 +1,3 @@
+[submodule "autopulse"]
+	path = autopulse
+	url = https://github.com/wasilina83/autopulse-analytics-linas-ai-powered-clustering-for-cars
